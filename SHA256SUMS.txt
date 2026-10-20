@@ -1,1 +1,20 @@
-30EB93C62FC51EDE0898648E67455478A3D5A4F279938AE65AEC77B84CB9703F  Plain Craft Launcher 2.exe
+Plain Craft Launcher 2.exe
+
+SHA256  30EB93C62FC51EDE0898648E67455478A3D5A4F279938AE65AEC77B84CB9703F
+SHA1    EA8234774952A529494D5C60BF8816C44D49AE81
+MD5     51B1AC71057AABFEDDA225884EDA1C23
+Size    5750272
+
+版本资源:
+  ProductName       Plain Craft Launcher
+  FileDescription   Plain Craft Launcher 启动器
+  FileVersion       2.13.1.1
+  ProductVersion    2.13.1.1
+  OriginalFilename  Plain Craft Launcher 2.exe
+  LegalCopyright    Copyright © 成都瓜皮龙科技有限公司
+
+PE 指纹（deterministic build 时间戳）: 0xD2AEE5FA
+数字签名: NotSigned（官方原版即如此，非异常）
+
+校验命令:
+  Get-FileHash ".\Plain Craft Launcher 2.exe" -Algorithm SHA256
