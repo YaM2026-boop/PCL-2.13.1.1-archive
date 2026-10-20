@@ -7,9 +7,9 @@
 | 文件 | 大小（字节） | SHA256 |
 | --- | --- | --- |
 | `Plain Craft Launcher 2.exe` | 5,750,272 | `30EB93C62FC51EDE0898648E67455478A3D5A4F279938AE65AEC77B84CB9703F` |
-| `PCL-2.13.1.1-archive.zip` | 2,577,245 | `7ED48C4063023BFD6D68C643BCE769C07A4C1182B3190A3E044194C0CE49D61D` |
+| `PCL-2.13.1.1-archive.zip` | 2,574,813 | `C0498214087B38BF0A45F54DA6FA533259CFB483A5A485EE390F24B96068B68B` |
 
-zip 内含：`Plain Craft Launcher 2.exe`、`README.md`、`RELEASE_NOTES.md`、`SHA256SUMS.txt`、`验证.ps1`、`锁定更新.bat`。
+zip 内含：`Plain Craft Launcher 2.exe`、`使用说明.txt`、`验证.ps1`、`锁定更新.bat`。（只有这 4 个文件，不含任何个人数据或配置文件）
 
 ## exe 的其余校验值
 
